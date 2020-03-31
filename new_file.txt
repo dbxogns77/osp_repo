@@ -1,3 +1,4 @@
 git text
 new_file : 1st modified
 new_file : 2st modified (remote -> local)
+branch_1 : 1st modified
